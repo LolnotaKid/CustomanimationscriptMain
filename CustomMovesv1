@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LolnotaKid/CustomScriptLv2/refs/heads/main/Lv2"))()
